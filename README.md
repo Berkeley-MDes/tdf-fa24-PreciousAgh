@@ -22,6 +22,8 @@ The specific file that I’m typing into right now is the **README.md** for this
 # Week 1: Example Report 1 #
 ## Week of 09/05/2024
 
+This week I learnt how to laser cut.
+
 This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
