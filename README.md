@@ -22,9 +22,28 @@ The specific file that I’m typing into right now is the **README.md** for this
 # Week 1: Example Report 1 #
 ## Week of 09/05/2024
 
-This week I learnt how to laser cut.
+This week I learnt how to laser cut aser Cutting and Design on Adobe Illustrator
 
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+Project Idea: I initially designed a wooden flower, which I later decided to convert into a coaster decor by adding squares to the design.
+
+Key Learnings:
+1. Adobe Illustrator Skills:
+   I learned how to design intricate patterns and adjust shapes to fit the laser cutter's capabilities.
+2. Laser Cutting Process:
+   Gained experience with using the laser cutter, especially understanding how different line thicknesses affect cutting time.
+   The original design had thick lines, causing the cutting process to take up to 2 hours.
+   By adjusting to thinner lines, I reduced the cutting time significantly to just 12 minutes.
+
+
+Challenges:
+    The initial coaster was too large, and I had to make design adjustments for efficiency.
+    
+Next Steps:
+Plan to reuse the leftover wood from the coaster project to create a wooden keychain.
+
+Next week plans
+
+
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
 
