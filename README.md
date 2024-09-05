@@ -19,44 +19,39 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
 
-# Week 1: Example Report 1 #
+# Week 1 #
 ## Week of 09/05/2024
 
-This week I learnt how to laser cut aser Cutting and Design on Adobe Illustrator
+This week I learnt how to laser cut and Design on Adobe Illustrator
 
-Project Idea: I initially designed a wooden flower, which I later decided to convert into a coaster decor by adding squares to the design.
+**Project Idea:** I initially designed a wooden flower, which I later decided to convert into a coaster decor by adding squares to the design.
 
-Key Learnings:
+**Key Learnings:**
 1. Adobe Illustrator Skills:
    I learned how to design intricate patterns and adjust shapes to fit the laser cutter's capabilities.
 2. Laser Cutting Process:
-   Gained experience with using the laser cutter, especially understanding how different line thicknesses affect cutting time.
-   The original design had thick lines, causing the cutting process to take up to 2 hours.
-   By adjusting to thinner lines, I reduced the cutting time significantly to just 12 minutes.
+   - Gained experience with using the laser cutter, especially understanding how different line thicknesses affect cutting time.
+   - The original design had thick lines, causing the cutting process to take up to 2 hours.
+   - By adjusting to thinner lines, I reduced the cutting time significantly to just 12 minutes.
 
+My Work
+---
 
-Challenges:
-    The initial coaster was too large, and I had to make design adjustments for efficiency.
-    
-Next Steps:
-Plan to reuse the leftover wood from the coaster project to create a wooden keychain.
-
-Next week plans
-
-
-
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
+<img width="200" alt="flowerlasercut" src="assets/IMG_1175.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1178.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1180.jpeg">
 
 ---
 
-It's time to start making this space your own! If you want to save these instructions, make a copy.  Also, feel empowered to delete everything in this README.md and start documenting! 
+**Challenges:**
+    The initial coaster was too large, and I had to make design adjustments for efficiency.
+    
+**Next Steps:**
+Plan to reuse the leftover wood from the coaster project to create a wooden keychain.
 
-Excited to work with you,
-your TDF teaching team
+**Next week plans**
+- Continue learning tutorials on Rhino
 
-PS: let us know if you have any questions!!
 
-PPS: 
+---
 
 ## Quick Links, compiled here for your convenience: ##
 
