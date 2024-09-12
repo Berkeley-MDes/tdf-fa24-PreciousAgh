@@ -53,6 +53,52 @@ Plan to reuse the leftover wood from the coaster project to create a wooden keyc
 
 ---
 
+# Week 2 # 
+
+This week, I focused on experimenting with the existing cellphone stand file in Grasshopper, created my own rhino file and created a shape on grasshopper. Here’s a summary of my progress and observations:
+
+---
+
+# Experimenting with the Existing Cellphone Stand Design # 
+
+**Baking the Existing 3D Model:**
+I began by baking the current cellphone stand design to visualize the 3D image. 
+
+<img width="200" alt="flowerlasercut" src="assets/Image1.jpeg">
+
+**Sphere Radius Adjustments:**
+I then experimented with the sphere radius, initially set between 40 to 50 units. I extended the radius to 61 units to observe how this affected the overall design.
+
+
+<img width="200" alt="flowerlasercut" src="assets/IMG_1175.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1178.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1180.jpeg">
+
+--- 
+
+
+**Fit Issues with Increased Sphere Size**
+When the sphere radius reached 61 units, I noticed that it was too large for the phone fitting, leading to a red warning indicating that the design would not fit the phone properly. (Insert an image showing the warning or red indicator in Grasshopper here to emphasize the fit issue.) This observation suggests that there is a set limit for the design to ensure the proper fitting of the phone. I am currently looking for the specific parameter that controls this limit.
+
+<img width="200" alt="flowerlasercut" src="assets/IMG_1175.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1178.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1180.jpeg">
+
+
+---
+
+**Exploring the Cellphone Stand Cluster**
+To find the fitting limit, I navigated to the cellphone stand cluster, which manages key design parameters like the phone width in millimeters. This setting ensures the phone fits correctly in the stand.
+
+<img width="200" alt="flowerlasercut" src="assets/IMG_1175.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1178.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1180.jpeg">
+
+
+By double-clicking on the cluster, I accessed its internal components, where I found detailed controls for adjusting dimensions like the phone width. This allowed me to experiment with different values to achieve a better fit for the phone. 
+
+<img width="200" alt="flowerlasercut" src="assets/IMG_1175.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1178.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1180.jpeg">
+
+ 
+**Experimenting with Shape Changes**
+I also experimented with altering the shape of the cellphone stand, attempting to change the design from two spheres to one box. However, I decided to move on from this experiment as the design wasn’t progressing as expected.
+
+<img width="200" alt="flowerlasercut" src="assets/IMG_1175.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1178.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1180.jpeg">
+
 ## Quick Links, compiled here for your convenience: ##
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
