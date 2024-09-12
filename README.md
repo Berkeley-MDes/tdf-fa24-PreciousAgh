@@ -130,6 +130,9 @@ Here is the final trifold stand
 **Next Steps:**
 Refining the fit and making any necessary adjustments to the design for stability. Everthing was just manually designed without further customization.
 
+---
+
+
 ## Creating an Object on Grasshopper ## 
 
 
