@@ -130,6 +130,23 @@ Here is the final trifold stand
 **Next Steps:**
 Refining the fit and making any necessary adjustments to the design for stability. Everthing was just manually designed without further customization.
 
+## Creating an Object on Grasshopper ## 
+
+
+**Objective:** To design a stacked structure consisting of a curved triangle, a circle, and another triangle using Grasshopper.
+
+**Step 1: Creating the Curved Triangle**
+
+To create the design, I started by making a curved triangle using the Polygon component, where I set the radius, segments, and fillet radius to achieve the desired shape. Afterward, I extruded the triangle by connecting the polygon to an Extrude component, setting the direction using a Unit Z vector, and controlling the extrusion depth with a Number Slider. I then connected the radius factor to the Unit Z vector and added a Cap component to close the top and bottom, forming a solid triangle polygon.
+
+**Step 2: Adding the Circle**
+
+Next, I moved on to adding a circle above the triangle. I created a circle and set its radius with a Number Slider, then used a Move component to position it above the first triangle, moving it along the Z-axis with a Unit Z vector. I connected the circle to the Move component and extruded it, again controlling the depth with a Number Slider. To finalize, I applied a Cap component to close the extruded circle.
+
+**Step 3: Repeating for the Top Triangle**
+
+Finally, I repeated the process from the first step to create another triangle. I moved this second triangle above the circle using the Move component, adjusting its position on the Z-axis with a Number Slider to place it properly. The top triangle was also capped to complete the design. This resulted in a stacked structure with a triangle on top of a circle, which was placed on top of another triangle, all fully extruded and capped.
+
 
 ## Quick Links, compiled here for your convenience: ##
 
