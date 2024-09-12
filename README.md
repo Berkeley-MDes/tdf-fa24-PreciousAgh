@@ -95,6 +95,29 @@ I also experimented with altering the shape of the cellphone stand, attempting t
 
 <img width="500" alt="flowerlasercut" src="assets/Image 5.png">
 
+## Creating a Trifold Phone Stand in Rhino##
+**Objective:**
+To design a trifold phone stand using basic tools in Rhino, including creating and positioning solid shapes with precision.
+
+**Creating a Rectangle:**
+
+I started by creating a rectangle in Rhino, which served as the base component for the phone stand.
+**Viewing in Shaded Mode:**
+
+To better visualize the design, I switched to Shaded mode in the viewport. This provided a clearer view of the solid shapes as I built the phone stand.
+
+
+
+**Using CPlane for Alignment:**
+
+I aligned the components using the CPlane tool to ensure that the base and supporting parts of the trifold stand were accurately positioned relative to each other, maintaining proper alignment for a stable structure.
+Using Gumball for Adjustments:
+
+I utilized the Gumball tool to make precise adjustments to the position and slant of the supporting parts. This allowed me to rotate and move the pieces, giving the stand its distinctive slanted support to hold a phone at a convenient viewing angle.
+Next Steps:
+Refining the fit and making any necessary adjustments to the design for stability and functionality.
+
+
 ## Quick Links, compiled here for your convenience: ##
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
