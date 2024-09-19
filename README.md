@@ -180,26 +180,25 @@ In this project, I created a design composed of:
 - **Rotation Axis**: One of the key transformations was using the **rotate axis** tool, which allowed me to position parts of the design dynamically.
 
 
-<img width="500" alt="rhino" src="assets/grasshopper 3.png">
+<img width="500" alt="rhino" src="assets/IMG_1262.jpeg">
 
 
 #### 2.2 Printing and Challenges
 When I initially printed the stand, I faced a challenge: the design came out flat and lacked the intended depth. To resolve this, I introduced a **hollow triangle** to support the design and give it the three-dimensional form it needed. This adjustment brought the entire structure to life as I had envisioned.
 
 
-<img width="500" alt="rhino" src="assets/grasshopper 3.png">, <img width="500" alt="rhino" src="assets/grasshopper 3.png"> 
-<img width="500" alt="rhino" src="assets/grasshopper 3.png">, <img width="500" alt="rhino" src="assets/grasshopper 3.png">
-
+<img width="500" alt="rhino" src="assets/IMG_1280.jpeg">, <img width="500" alt="rhino" src="assets/IMG_1324.jpeg"> 
 
 ### 3. Reflections
 I am proud of the progress I’ve made so far. This project challenged me to think critically about computational design and the tools I used. Solving the issue with the hollow triangle was a pivotal moment, and it taught me a lot about how small adjustments can completely transform a project.
 
-<img width="500" alt="rhino" src="assets/grasshopper 3.png">
+<img width="500" alt="rhino" src="assets/IMG_1366.jpeg">, <img width="500" alt="rhino" src="assets/IMG_1360.jpeg"> 
+
 
 ### 4. Video Demonstration
 To see my full design process in action, watch the video below where I demonstrate the steps taken and how I refined the design over time. In the video, I also explain how I resolved key challenges and what I learned along the way.
 
-[Watch the full video of my work](#) <!-- Add a link to the video here -->
+[Watch the full video of my work](# https://www.youtube.com/watch?v=UsCt0jUYiUI) <!-- (https://www.youtube.com/watch?v=UsCt0jUYiUI) -->
 
 ---
 Stay tuned for more updates on this project as I continue refining the design and tackling new challenges!
