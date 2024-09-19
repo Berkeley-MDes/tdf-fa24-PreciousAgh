@@ -159,6 +159,51 @@ Finally, I repeated the process from the first step to create another triangle. 
 
 <img width="500" alt="rhino" src="assets/grasshopper 3.png">
 
+---
+
+
+## Week 3 ##
+
+# Project 1: Computational Design Progress Report
+
+## Jewelry Stand Design with Grasshopper
+
+### 1. Project Overview
+This week, I started working on my computational design project for **Project 1**, where I designed a **jewelry stand** using **Grasshopper & Rhino**. I challenged myself by choosing the **Axolotl** level, which pushed me to explore complex geometries and transformations in Grasshopper.
+
+### 2. Design Process
+
+#### 2.1 Grasshopper File Explanation
+In this project, I created a design composed of:
+- **A polygon base**: The stand starts with a polygon shape that forms the base.
+- **Cylinder and Polygon Structures**: I added a cylinder and another polygon on top. These shapes were moved, rotated, and extruded to create the overall stand structure.
+- **Rotation Axis**: One of the key transformations was using the **rotate axis** tool, which allowed me to position parts of the design dynamically.
+
+
+<img width="500" alt="rhino" src="assets/grasshopper 3.png">
+
+
+#### 2.2 Printing and Challenges
+When I initially printed the stand, I faced a challenge: the design came out flat and lacked the intended depth. To resolve this, I introduced a **hollow triangle** to support the design and give it the three-dimensional form it needed. This adjustment brought the entire structure to life as I had envisioned.
+
+
+<img width="500" alt="rhino" src="assets/grasshopper 3.png">, <img width="500" alt="rhino" src="assets/grasshopper 3.png"> 
+<img width="500" alt="rhino" src="assets/grasshopper 3.png">, <img width="500" alt="rhino" src="assets/grasshopper 3.png">
+
+
+### 3. Reflections
+I am proud of the progress I’ve made so far. This project challenged me to think critically about computational design and the tools I used. Solving the issue with the hollow triangle was a pivotal moment, and it taught me a lot about how small adjustments can completely transform a project.
+
+<img width="500" alt="rhino" src="assets/grasshopper 3.png">
+
+### 4. Video Demonstration
+To see my full design process in action, watch the video below where I demonstrate the steps taken and how I refined the design over time. In the video, I also explain how I resolved key challenges and what I learned along the way.
+
+[Watch the full video of my work](#) <!-- Add a link to the video here -->
+
+---
+Stay tuned for more updates on this project as I continue refining the design and tackling new challenges!
+
 
 ## Quick Links, compiled here for your convenience: ##
 
