@@ -249,6 +249,13 @@ AirPods Pro connects to multiple devices via Bluetooth. These include:
 
 --- 
 
+**Concept Map Image**
+
+<img width="700" alt="rhino" src="assets/IMG_1262.jpeg">
+
+---
+
+
 **Why I Used a Concept Map**
 
 I chose to use a concept map because it's a simple yet effective way to break down the complex features of the AirPods Pro, something I use every day. The AirPods Pro have so many interactions—whether it’s adjusting noise cancellation, switching between devices, or using Siri. A concept map helps me organize all these functions in a way that’s easy to follow.
