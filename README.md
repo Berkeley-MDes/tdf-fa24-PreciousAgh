@@ -251,7 +251,7 @@ AirPods Pro connects to multiple devices via Bluetooth. These include:
 
 **Concept Map Image**
 
-<img width="700" alt="TDFCONCEPTMAP" src="assets/TDF Concept maps.pdf">
+<img width="700" alt="TDFCONCEPTMAP" src="assets/TDFConcept maps.png">
 
 ---
 
