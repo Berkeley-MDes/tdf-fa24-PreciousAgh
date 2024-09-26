@@ -2,7 +2,11 @@
 Welcome to your new GitHub repository! 
 
 # Outline
-[week 1](README.md#week-1-example-report-1)
+[Week 1](README.md#week-1)
+
+[Week 2](README.md#week-2)
+
+[Week 3](README.md#week-3)
 
 week 2, etc...
 
@@ -162,7 +166,7 @@ Finally, I repeated the process from the first step to create another triangle. 
 ---
 
 
-## Week 3 ##
+# Week 3 #
 
 # Project 1: Computational Design Progress Report
 
