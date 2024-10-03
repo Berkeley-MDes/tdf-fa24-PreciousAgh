@@ -28,7 +28,36 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 # Week 5 #
 
-For this week i am
+**Progress Report: Circuit Board Setup, Wiring, and Compiling C++ Programs**
+
+This week, I made significant progress by setting up my circuit board, learning how to wire it correctly (acording to the picture, and successfully connecting it to the Berkeley IoT network. This was my first hands-on experience with hardware integration, and it gave me a deeper understanding of how software interacts with physical components.
+
+**Circuit Board and IoT Network:**
+
+**Wiring and Connection:** I learned how to properly wire my circuit board to make sure all components were securely connected. This process helped me understand the importance of accuracy and troubleshooting in hardware setup.
+
+**Connecting to Berkeley IoT Network:** Once the board was wired, I connected it to the Berkeley IoT network, which allowed me to start testing my code in real-time. This step was essential in learning how IoT devices communicate and how my code impacts the physical behavior of the device.
+
+
+**Files Compiled:**
+
+**01_helloworld.cpp:** A basic Hello World program that helped me reinforce the syntax of C++ and its structure.
+**02_helloworld_spell.cpp:** A modified version of Hello World that introduced the concept of spell-checking in the output.
+**03_altering_periodicity.cpp:** A more complex file where I explored altering periodic behavior in loops, testing my understanding of timing functions and how they impact program execution. 
+
+
+**Key Learnings:**
+
+**Understanding the Compilation Process:** This was my first time working through the entire process of compiling a C++ file and then flashing it onto a device. I learned about the steps required in the compilation process, including error handling and debugging.
+
+
+**Hands-On Application of C++ Concepts:** I reinforced my knowledge of C++ syntax and key concepts such as loops, functions, and conditional statements, which were essential for ensuring the successful execution of my programs.
+
+**Flashing Experience:** Flashing the compiled programs onto a device provided me with an understanding of how software interacts with hardware, which was an entirely new experience for me.
+
+**Next Steps:**
+
+Moving forward, I plan to dive deeper into optimizing the performance of my code and improving my debugging skills to handle more complex C++ programs. I also want to explore new tutorials that could enhance the functionality of future projects.
 
 ---
 
