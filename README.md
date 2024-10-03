@@ -25,37 +25,114 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
 
-# Week 1 #
-## Week of 09/05/2024
 
-This week I learnt how to laser cut and Design on Adobe Illustrator
+# Week 5 #
 
-**Project Idea:** I initially designed a wooden flower, which I later decided to convert into a coaster decor by adding squares to the design.
-
-**Key Learnings:**
-1. Adobe Illustrator Skills:
-   I learned how to design intricate patterns and adjust shapes to fit the laser cutter's capabilities.
-2. Laser Cutting Process:
-   - Gained experience with using the laser cutter, especially understanding how different line thicknesses affect cutting time.
-   - The original design had thick lines, causing the cutting process to take up to 2 hours.
-   - By adjusting to thinner lines, I reduced the cutting time significantly to just 12 minutes.
-
-My Work
----
-
-<img width="200" alt="flowerlasercut" src="assets/IMG_1175.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1178.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1180.jpeg">
+For this week i am
 
 ---
 
-**Challenges:**
-    The initial coaster was too large, and I had to make design adjustments for efficiency.
-    
-**Next Steps:**
-Plan to reuse the leftover wood from the coaster project to create a wooden keychain.
+# Week 4 #
 
-**Next week plans**
-- Continue learning tutorials on Rhino
+# Personal Device Ecosystem Analysis with AirPods Pro #
 
+# Overview # 
+
+This week, I focused on analyzing and mapping my personal device ecosystem, centering on the role of AirPods Pro within my daily interactions with various platforms and devices. The purpose was to visually represent the connections, information flow, and feedback loops that I engage with on a daily basis.
+
+---
+
+I chose to create a concept map to clearly visualize the interconnected systems, breaking the map into three primary areas: **Connections, Information Flow, and Feedback Loops.** The focus was on how data and interactions pass between the AirPods Pro and other devices such as my iPhone, MacBook, and Apple Watch.
+
+**Concept Map Breakdown**
+
+The concept map is organized into three major components:
+
+**1. Connections**
+
+AirPods Pro connects to multiple devices via Bluetooth. These include:
+* **iPhone:** Handles calls, messages, and media playback.
+* **MacBook:** Streams audio for work and entertainment.
+* **Apple Watch:** Manages playback, notifications, and quick controls.
+* **Streaming Platforms:** Indirect connection to Spotify and Apple Music.
+  
+**2. Information Flow**
+
+* **Audio Data:** Music, podcasts, and phone calls stream from connected devices to AirPods Pro.
+* **Siri Commands:** Voice commands sent from the AirPods Pro to the iPhone for task execution.
+* **Sensor Data:** Ear placement is detected which allows the AirPods pro to adjust audio playback accordingly.
+* **Message and Call Notifications:** Announcements for incoming messages and calls are made through AirPods Pro.
+  
+**3. Feedback Loops**
+
+* **Noise Cancellation:** Adjusts to the user’s environment based on external noise levels.
+* **Volume Control:** Immediate changes are reflected based on user interaction with the AirPods Pro stems.
+* **Battery Notifications:** Alerts sent to connected devices when battery levels are low.
+* **Call/Message Announcements:** Feedback provided when receiving messages or calls whcih allows user response through Siri or direct action.
+
+--- 
+
+**Concept Map Image**
+
+<img width="700" alt="TDFCONCEPTMAP" src="assets/TDFConcept maps.png">
+
+---
+
+
+**Why I Used a Concept Map**
+
+I chose to use a concept map because it's a simple yet effective way to break down the complex features of the AirPods Pro, something I use every day. The AirPods Pro have so many interactions—whether it’s adjusting noise cancellation, switching between devices, or using Siri. A concept map helps me organize all these functions in a way that’s easy to follow.
+
+By categorizing everything into sub-nodes, I can see how different features, like spatial audio or battery notifications, connect with each other. It also helps me visualize how real-time feedback (like announcing calls or adjusting the volume) works across multiple devices. For someone like me, who relies on AirPods Pro daily, it just makes sense to use a structure that simplifies all the moving parts.
+
+---
+
+**Conclusion**
+
+This exercise gave me a clearer understanding of the interconnected nature of my personal device ecosystem, particularly how AirPods Pro serves as a hub for managing audio, commands, and notifications. Using the concept map as a tool, I was able to highlight the connections, smooth flow of information and real-time feedback loops that enhance my user experience.
+
+---
+
+# Week 3 #
+
+# Project 1: Computational Design Progress Report
+
+## Jewelry Stand Design with Grasshopper
+
+### 1. Project Overview
+This week, I started working on my computational design project for **Project 1**, where I designed a **jewelry stand** using **Grasshopper & Rhino**. I challenged myself by choosing the **Axolotl** level, which pushed me to explore complex geometries and transformations in Grasshopper.
+
+### 2. Design Process
+
+#### 2.1 Grasshopper File Explanation
+In this project, I created a design composed of:
+- **A polygon base**: The stand starts with a polygon shape that forms the base.
+- **Cylinder and Polygon Structures**: I added a cylinder and another polygon on top. These shapes were moved, rotated, and extruded to create the overall stand structure.
+- **Rotation Axis**: One of the key transformations was using the **rotate axis** tool, which allowed me to position parts of the design dynamically.
+
+
+<img width="500" alt="rhino" src="assets/IMG_1262.jpeg">
+
+
+#### 2.2 Printing and Challenges
+When I initially printed the stand, I faced a challenge: the design came out flat and lacked the intended depth. To resolve this, I introduced a **hollow triangle** to support the design and give it the three-dimensional form it needed. This adjustment brought the entire structure to life as I had envisioned.
+
+
+<img width="500" alt="rhino" src="assets/IMG_1280.jpeg">, <img width="500" alt="rhino" src="assets/IMG_1324.jpeg"> 
+
+### 3. Reflections
+I am proud of the progress I’ve made so far. This project challenged me to think critically about computational design and the tools I used. Solving the issue with the hollow triangle was a pivotal moment, and it taught me a lot about how small adjustments can completely transform a project.
+
+<img width="500" alt="rhino" src="assets/IMG_1366.jpeg">, <img width="500" alt="rhino" src="assets/IMG_1360.jpeg"> 
+
+
+### 4. Video Demonstration
+To see my full design process in action, watch the video below where I demonstrate the steps taken and how I refined the design over time. In the video, I also explain how I resolved key challenges and what I learned along the way.
+
+[Watch the full video of my work](# https://www.youtube.com/watch?v=UsCt0jUYiUI) <!-- (https://www.youtube.com/watch?v=UsCt0jUYiUI) -->
+
+
+Stay tuned for more updates on this project as I continue refining the design and tackling new challenges!
 
 ---
 
@@ -167,115 +244,39 @@ Finally, I repeated the process from the first step to create another triangle. 
 
 ---
 
+# Week 1 #
+## Week of 09/05/2024
 
-# Week 3 #
+This week I learnt how to laser cut and Design on Adobe Illustrator
 
-# Project 1: Computational Design Progress Report
+**Project Idea:** I initially designed a wooden flower, which I later decided to convert into a coaster decor by adding squares to the design.
 
-## Jewelry Stand Design with Grasshopper
+**Key Learnings:**
+1. Adobe Illustrator Skills:
+   I learned how to design intricate patterns and adjust shapes to fit the laser cutter's capabilities.
+2. Laser Cutting Process:
+   - Gained experience with using the laser cutter, especially understanding how different line thicknesses affect cutting time.
+   - The original design had thick lines, causing the cutting process to take up to 2 hours.
+   - By adjusting to thinner lines, I reduced the cutting time significantly to just 12 minutes.
 
-### 1. Project Overview
-This week, I started working on my computational design project for **Project 1**, where I designed a **jewelry stand** using **Grasshopper & Rhino**. I challenged myself by choosing the **Axolotl** level, which pushed me to explore complex geometries and transformations in Grasshopper.
-
-### 2. Design Process
-
-#### 2.1 Grasshopper File Explanation
-In this project, I created a design composed of:
-- **A polygon base**: The stand starts with a polygon shape that forms the base.
-- **Cylinder and Polygon Structures**: I added a cylinder and another polygon on top. These shapes were moved, rotated, and extruded to create the overall stand structure.
-- **Rotation Axis**: One of the key transformations was using the **rotate axis** tool, which allowed me to position parts of the design dynamically.
-
-
-<img width="500" alt="rhino" src="assets/IMG_1262.jpeg">
-
-
-#### 2.2 Printing and Challenges
-When I initially printed the stand, I faced a challenge: the design came out flat and lacked the intended depth. To resolve this, I introduced a **hollow triangle** to support the design and give it the three-dimensional form it needed. This adjustment brought the entire structure to life as I had envisioned.
-
-
-<img width="500" alt="rhino" src="assets/IMG_1280.jpeg">, <img width="500" alt="rhino" src="assets/IMG_1324.jpeg"> 
-
-### 3. Reflections
-I am proud of the progress I’ve made so far. This project challenged me to think critically about computational design and the tools I used. Solving the issue with the hollow triangle was a pivotal moment, and it taught me a lot about how small adjustments can completely transform a project.
-
-<img width="500" alt="rhino" src="assets/IMG_1366.jpeg">, <img width="500" alt="rhino" src="assets/IMG_1360.jpeg"> 
-
-
-### 4. Video Demonstration
-To see my full design process in action, watch the video below where I demonstrate the steps taken and how I refined the design over time. In the video, I also explain how I resolved key challenges and what I learned along the way.
-
-[Watch the full video of my work](# https://www.youtube.com/watch?v=UsCt0jUYiUI) <!-- (https://www.youtube.com/watch?v=UsCt0jUYiUI) -->
-
+My Work
 ---
-Stay tuned for more updates on this project as I continue refining the design and tackling new challenges!
 
-
-
-# Week 4 #
-
-# Personal Device Ecosystem Analysis with AirPods Pro #
-
-# Overview # 
-
-This week, I focused on analyzing and mapping my personal device ecosystem, centering on the role of AirPods Pro within my daily interactions with various platforms and devices. The purpose was to visually represent the connections, information flow, and feedback loops that I engage with on a daily basis.
+<img width="200" alt="flowerlasercut" src="assets/IMG_1175.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1178.jpeg">, <img width="200" alt="flowerlasercut" src="assets/IMG_1180.jpeg">
 
 ---
 
-I chose to create a concept map to clearly visualize the interconnected systems, breaking the map into three primary areas: **Connections, Information Flow, and Feedback Loops.** The focus was on how data and interactions pass between the AirPods Pro and other devices such as my iPhone, MacBook, and Apple Watch.
+**Challenges:**
+    The initial coaster was too large, and I had to make design adjustments for efficiency.
+    
+**Next Steps:**
+Plan to reuse the leftover wood from the coaster project to create a wooden keychain.
 
-**Concept Map Breakdown**
+**Next week plans**
+- Continue learning tutorials on Rhino
 
-The concept map is organized into three major components:
-
-**1. Connections**
-
-AirPods Pro connects to multiple devices via Bluetooth. These include:
-* **iPhone:** Handles calls, messages, and media playback.
-* **MacBook:** Streams audio for work and entertainment.
-* **Apple Watch:** Manages playback, notifications, and quick controls.
-* **Streaming Platforms:** Indirect connection to Spotify and Apple Music.
-  
-**2. Information Flow**
-
-* **Audio Data:** Music, podcasts, and phone calls stream from connected devices to AirPods Pro.
-* **Siri Commands:** Voice commands sent from the AirPods Pro to the iPhone for task execution.
-* **Sensor Data:** Ear placement is detected which allows the AirPods pro to adjust audio playback accordingly.
-* **Message and Call Notifications:** Announcements for incoming messages and calls are made through AirPods Pro.
-  
-**3. Feedback Loops**
-
-* **Noise Cancellation:** Adjusts to the user’s environment based on external noise levels.
-* **Volume Control:** Immediate changes are reflected based on user interaction with the AirPods Pro stems.
-* **Battery Notifications:** Alerts sent to connected devices when battery levels are low.
-* **Call/Message Announcements:** Feedback provided when receiving messages or calls whcih allows user response through Siri or direct action.
-
---- 
-
-**Concept Map Image**
-
-<img width="700" alt="TDFCONCEPTMAP" src="assets/TDFConcept maps.png">
 
 ---
-
-
-**Why I Used a Concept Map**
-
-I chose to use a concept map because it's a simple yet effective way to break down the complex features of the AirPods Pro, something I use every day. The AirPods Pro have so many interactions—whether it’s adjusting noise cancellation, switching between devices, or using Siri. A concept map helps me organize all these functions in a way that’s easy to follow.
-
-By categorizing everything into sub-nodes, I can see how different features, like spatial audio or battery notifications, connect with each other. It also helps me visualize how real-time feedback (like announcing calls or adjusting the volume) works across multiple devices. For someone like me, who relies on AirPods Pro daily, it just makes sense to use a structure that simplifies all the moving parts.
-
----
-
-**Conclusion**
-
-This exercise gave me a clearer understanding of the interconnected nature of my personal device ecosystem, particularly how AirPods Pro serves as a hub for managing audio, commands, and notifications. Using the concept map as a tool, I was able to highlight the connections, smooth flow of information and real-time feedback loops that enhance my user experience.
-
----
-
-# Week 5 #
-
-For this week i am
-
 
 
 ## Quick Links, compiled here for your convenience: ##
