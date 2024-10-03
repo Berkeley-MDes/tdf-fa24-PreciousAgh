@@ -10,6 +10,8 @@ Welcome to your new GitHub repository!
 
 [Week 4](README.md#week-4)
 
+[Week 5](README.md#week-5)
+
 ---
 
 # Github Background Information & Context
@@ -267,6 +269,13 @@ By categorizing everything into sub-nodes, I can see how different features, lik
 **Conclusion**
 
 This exercise gave me a clearer understanding of the interconnected nature of my personal device ecosystem, particularly how AirPods Pro serves as a hub for managing audio, commands, and notifications. Using the concept map as a tool, I was able to highlight the connections, smooth flow of information and real-time feedback loops that enhance my user experience.
+
+---
+
+# Week 5 #
+
+For this week i am
+
 
 
 ## Quick Links, compiled here for your convenience: ##
