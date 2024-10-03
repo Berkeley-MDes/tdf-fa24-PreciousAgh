@@ -60,6 +60,16 @@ This week, I made significant progress by setting up my circuit board, learning 
 Moving forward, I plan to dive deeper into optimizing the performance of my code and improving my debugging skills to handle more complex C++ programs. I also want to explore new tutorials that could enhance the functionality of future projects.
 
 ---
+# Later in the week I worked on the 3 tutorials # 
+
+**Tutorial 1: Button to LED Pulse Rate:**
+
+In this tutorial, I wrote and compiled code that changed the blinking period of an LED when a button was pressed. The goal was to control the pulse rate of the LED through button interactions.
+
+**Problem Faced:** Initially, the LED did not blink, and I quickly realized that the issue was with how I had connected the longer lead of the LED. The cathode (longer lead) was incorrectly positioned, which disrupted the circuit. After troubleshooting and correctly connecting it, the LED blinked as expected. This taught me the importance of precise wiring, especially when working with hardware components.
+
+---
+
 
 # Week 4 #
 
