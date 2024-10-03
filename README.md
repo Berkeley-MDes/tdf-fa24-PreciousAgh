@@ -36,7 +36,7 @@ This week, I made significant progress by setting up my circuit board, learning 
 
 **Wiring and Connection:** I learned how to properly wire my circuit board to make sure all components were securely connected. This process helped me understand the importance of accuracy and troubleshooting in hardware setup. 
 
-<img width="500" alt="rhino" src="assets/IMG_1552.HEIC">
+<img width="500" alt="rhino" src="assets/IMG_1552.HEIC"> 
 
 **Connecting to Berkeley IoT Network:** Once the board was wired, I connected it to the Berkeley IoT network, which allowed me to start testing my code in real-time. This step was essential in learning how IoT devices communicate and how my code impacts the physical behavior of the device.
 
