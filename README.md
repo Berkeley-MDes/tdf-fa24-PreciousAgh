@@ -36,6 +36,10 @@ Progress Report: Soldering, Forming a Team for Project 2 and building a proposal
 This week, I successfully soldered the Stemma QT interface board, my first experience with soldering, which I found rewarding with guidance from Gary in the makerspace. I also downloaded the project files and configured them in Visual Studio Code for our experiments. For the homework assignment, I explored two Stemma-based sensor projects, documenting my findings and experimenting with how to map sensor values within the firmware code. This included using the map() function for LED outputs and employing constrain() to manage any noisy sensor readings.
 
 --- 
+<img width="700" alt="TDFCONCEPTMAP" src="assets/TDFConcept maps.png">
+
+---
+ 
 
 **Group Formation and Project Proposal**
 
@@ -60,6 +64,11 @@ The goal of our project is to develop a system that uses motion data from waving
 **Isabella Wang:** Level 03-Axolotl, responsible for rigging the Photon and the sensors.
 
 **Precious Aghaeze:** Level 03-Axolotl, exploring animations in p5.js.
+
+--- 
+
+**Reflection & Speculation**
+Looking ahead, we are excited about evolving the "Magic Spell" project as we aim to enter the Game Developer Conference (GDC) in March 2025. This milestone presents an excellent opportunity for us to showcase our work to a broader audience and engage with industry professionals. To prepare, we plan to enhance our interactive system by integrating more sophisticated game mechanics, such as quest-driven narratives and user progression. This evolution will allow players to embark on spell-casting adventures, where they can unlock new spells and animations as they improve their skills.
 
 ---
 
