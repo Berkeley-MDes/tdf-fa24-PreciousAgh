@@ -36,7 +36,7 @@ Progress Report: Soldering, Forming a Team for Project 2 and building a proposal
 This week, I successfully soldered the Stemma QT interface board, my first experience with soldering, which I found rewarding with guidance from Gary in the makerspace. I also downloaded the project files and configured them in Visual Studio Code for our experiments. For the homework assignment, I explored two Stemma-based sensor projects, documenting my findings and experimenting with how to map sensor values within the firmware code. This included using the map() function for LED outputs and employing constrain() to manage any noisy sensor readings.
 
 --- 
-<img width="700" alt="TDFCONCEPTMAP" src="assets/TDFConcept maps.png">
+<img width="500" alt="Soldering" src="assets/IMG_1602.jpg">
 
 ---
  
