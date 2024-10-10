@@ -31,6 +31,36 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 Progress Report: Soldering, Forming a Team for Project 2 and building a proposal for our project.
 
+**Soldering and Initial Experiments**
+
+This week, I successfully soldered the Stemma QT interface board, my first experience with soldering, which I found rewarding with guidance from Gary in the makerspace. I also downloaded the project files and configured them in Visual Studio Code for our experiments. For the homework assignment, I explored two Stemma-based sensor projects, documenting my findings and experimenting with how to map sensor values within the firmware code. This included using the map() function for LED outputs and employing constrain() to manage any noisy sensor readings.
+
+--- 
+
+**Group Formation and Project Proposal**
+
+In class, we formed groups for our project, "Magic Spell." I was particularly intrigued by Jiaqi's pitch, which involved using motion data to cast spells—an idea that resonates with my previous experiences at Disney. Our team includes myself, Jiaqi Wang, and Isabella Wang. We aim to utilize Particle Photon 2 devices, Particle Cloud Services, and STEMMA QT-based sensors to develop an interactive system that recognizes motion data and triggers corresponding animations in p5.js.
+
+--- 
+
+**Project Overview
+Introduction:**
+The goal of our project is to develop a system that uses motion data from waving a wand to recognize spells through machine learning and trigger animations displayed on a screen. If time permits, we hope to integrate physical outputs using motors and LEDs.
+
+**Objectives:**
+
+- Validate the feasibility of using Particle Photon 2 devices in various applications.
+
+- Create interactive experiences through motion data and sensor integration.
+
+**Team Member Roles:**
+
+**Jiaqi Wang:** Level 03-Axolotl, focusing on ML motion recognition.
+ 
+**Isabella Wang:** Level 03-Axolotl, responsible for rigging the Photon and the sensors.
+
+**Precious Aghaeze:** Level 03-Axolotl, exploring animations in p5.js.
+
 ---
 
 # Week 5 #
