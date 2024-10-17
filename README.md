@@ -44,6 +44,8 @@ This week, I continued working on my Magic Spell project, developing three diffe
 
 **Description:** This spell transforms a caterpillar into a butterfly upon mouse click, accompanied by sound and visual effects.
 
+<img width="500" alt="Soldering" src="assets/IMG_1602.jpg">
+
 **Code Explanation:**
 The Insect class creates the caterpillar, while the Butterfly class represents the butterfly after transformation.
 The caterpillar's movement is smooth and wiggly, following the mouse cursor.
@@ -56,9 +58,11 @@ The flapping effect is achieved using a sine function based on the elapsed time,
 
 ---
 
-**#Morphing Spell#**
+**Morphing Spell**
 
 **Description:** This spell utilizes a video that plays when the mouse is clicked, along with a sound effect. It creates an engaging visual and auditory experience.
+
+<img width="500" alt="Soldering" src="assets/IMG_1602.jpg">
 
 **Code Explanation:**
 The video is loaded and hidden initially, playing only when the mouse is pressed.
@@ -67,7 +71,7 @@ The sound effect synchronizes with the video playback, enhancing the overall eff
 
 **Code**
 
-[https://editor.p5js.org/PreciousAgh/sketches/QlfXRRSol]
+[(https://editor.p5js.org/PreciousAgh/sketches/_YGC8ej52)]
 
 
 Images/Video: Include a still from the video or a GIF showing the morphing animation here.
@@ -78,6 +82,8 @@ Images/Video: Include a still from the video or a GIF showing the morphing anima
 
 **Description:** This spell allows users to draw with a glowing effect using particles that fade over time.
 
+<img width="500" alt="Soldering" src="assets/IMG_1602.jpg">
+
 **Code Explanation:**
 
 A particle system is implemented to create the glowing effect, with particles generated as the mouse is dragged.
@@ -86,7 +92,7 @@ Upon releasing the mouse, the particles gradually fade out, creating an enchanti
 
 **Code**
 
-[https://editor.p5js.org/PreciousAgh/sketches/QlfXRRSol]
+[https://editor.p5js.org/PreciousAgh/sketches/Y9Ubk9TZd]
 
 ---
 
