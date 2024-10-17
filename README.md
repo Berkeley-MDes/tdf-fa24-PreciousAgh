@@ -44,7 +44,7 @@ This week, I continued working on my Magic Spell project, developing three diffe
 
 **Description:** This spell transforms a caterpillar into a butterfly upon mouse click, accompanied by sound and visual effects.
 
-<img width="500" alt="Soldering" src="assets/IMG_1602.jpg">
+<img width="500" alt="Soldering" src="assets/tranfromspell.gif">
 
 **Code Explanation:**
 The Insect class creates the caterpillar, while the Butterfly class represents the butterfly after transformation.
