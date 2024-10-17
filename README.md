@@ -62,7 +62,7 @@ The flapping effect is achieved using a sine function based on the elapsed time,
 
 **Description:** This spell utilizes a video that plays when the mouse is clicked, along with a sound effect. It creates an engaging visual and auditory experience.
 
-<img width="500" alt="Soldering" src="assets/IMG_1602.jpg">
+<img width="800" alt="morph" src="assets/morph-ezgif.com-video-to-gif-converter.gif">
 
 **Code Explanation:**
 The video is loaded and hidden initially, playing only when the mouse is pressed.
@@ -82,7 +82,7 @@ Images/Video: Include a still from the video or a GIF showing the morphing anima
 
 **Description:** This spell allows users to draw with a glowing effect using particles that fade over time.
 
-<img width="500" alt="Soldering" src="assets/IMG_1602.jpg">
+<img width="800" alt="drawing" src="assets/mydrawgif.gif">
 
 **Code Explanation:**
 
