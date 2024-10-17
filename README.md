@@ -14,6 +14,8 @@ Welcome to your new GitHub repository!
 
 [Week 6](README.md#week-6)
 
+[Week 7](README.md#week-7)
+
 ---
 
 # Github Background Information & Context
@@ -26,6 +28,81 @@ The specific file that I’m typing into right now is the **README.md** for this
 <h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
+
+# Week 7 #
+
+**Magic Spell Project: p5.js contribution**
+
+This week, I continued working on my Magic Spell project, developing three different spells in p5.js: a Transformation Spell, a Morphing Spell, and a Drawing Glow Spell. Each spell incorporates unique elements, including animation, sound, and interactivity.
+
+--- 
+
+### Spells Developed
+
+
+**Transformation Spell**
+
+**Description:** This spell transforms a caterpillar into a butterfly upon mouse click, accompanied by sound and visual effects.
+
+**Code Explanation:**
+The Insect class creates the caterpillar, while the Butterfly class represents the butterfly after transformation.
+The caterpillar's movement is smooth and wiggly, following the mouse cursor.
+When clicked, the caterpillar initiates its transformation, and the butterfly begins to flap its wings.
+The flapping effect is achieved using a sine function based on the elapsed time, providing a realistic animation of the wings moving up and down.
+
+**Code**
+
+[https://editor.p5js.org/PreciousAgh/sketches/QlfXRRSol]
+
+---
+
+**#Morphing Spell#**
+
+**Description:** This spell utilizes a video that plays when the mouse is clicked, along with a sound effect. It creates an engaging visual and auditory experience.
+
+**Code Explanation:**
+The video is loaded and hidden initially, playing only when the mouse is pressed.
+
+The sound effect synchronizes with the video playback, enhancing the overall effect.
+
+**Code**
+
+[https://editor.p5js.org/PreciousAgh/sketches/QlfXRRSol]
+
+
+Images/Video: Include a still from the video or a GIF showing the morphing animation here.
+
+--- 
+
+**Drawing Glow Spell**
+
+**Description:** This spell allows users to draw with a glowing effect using particles that fade over time.
+
+**Code Explanation:**
+
+A particle system is implemented to create the glowing effect, with particles generated as the mouse is dragged.
+
+Upon releasing the mouse, the particles gradually fade out, creating an enchanting visual.
+
+**Code**
+
+[https://editor.p5js.org/PreciousAgh/sketches/QlfXRRSol]
+
+---
+
+## Reflections
+
+This week's experiments significantly enhanced my understanding of interactive programming with p5.js. I learned about the importance of synchronizing visual and audio elements to create a cohesive user experience. The challenges I faced, particularly in coordinating animations and sounds, pushed me to explore various methods of achieving fluid motion in graphics.
+
+**Assessment of Work:** Currently, I feel satisfied with the functionality and aesthetics of the spells. The transformation animation of the caterpillar to butterfly is especially rewarding. However, I see room for improvement in optimizing the particle system for performance.
+
+**Speculations**
+
+Looking forward, I believe the tools and frameworks like p5.js will continue evolving where I will be incorporating more advanced features for real-time graphics and interactive experiences. 
+
+**Future Direction for Work:** I plan to further explore sound design in my projects and incorporate machine learning algorithms to allow the spells to react intelligently to user behaviors.
+
+---
 
 # Week 6 #
 
