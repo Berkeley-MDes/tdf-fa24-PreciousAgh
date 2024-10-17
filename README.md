@@ -31,13 +31,13 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 # Week 7 #
 
-**Magic Spell Project: p5.js contribution**
+# Magic Spell Project: p5.js contribution #
 
 This week, I continued working on my Magic Spell project, developing three different spells in p5.js: a Transformation Spell, a Morphing Spell, and a Drawing Glow Spell. Each spell incorporates unique elements, including animation, sound, and interactivity.
 
 --- 
 
-### Spells Developed
+### Spells Developed in P5.js
 
 
 **Transformation Spell**
