@@ -16,6 +16,8 @@ Welcome to your new GitHub repository!
 
 [Week 7](README.md#week-7)
 
+[Week 8](README.md#week-8)
+
 ---
 
 # Github Background Information & Context
@@ -28,6 +30,42 @@ The specific file that I’m typing into right now is the **README.md** for this
 <h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
+
+# Week 8 #
+# Magic Spell: Final Video #
+
+This week, we made significant progress in our "Magic Spell" project, which explores the integration of Particle Photon, Cloud Services, and STEMMA QT sensors to develop a system that allows users to cast spells through motion data. The motion data, captured by waving a wand, is categorized and recognized as specific spells through machine learning. Our current spells include a transformation spell that triggers a p5.js animation and the lehviosa spell that activates a magnetic floating platform.
+
+**MACHINE LEARNING**
+
+In the machine learning segment, we utilized Edge Impulse to train our model to recognize four distinct spells based on XYZ data from an accelerometer. The training process involved gathering feature data for each spell and accurately labeling them. The results showed clear boundaries among clusters in the feature explorer, achieving an impressive accuracy of over 90%. We set up variables for each spell in VS Code and created a list to store raw sensor data, allowing real-time classification via the Particle API and p5.js.
+
+**P5.JS INTEGRATION**
+
+In the p5.js segment, we developed an animation where a caterpillar transforms into a butterfly, managed through the Insect class. By establishing a Particle API URL, we linked our machine learning model with p5.js, enabling real-time updates from the Photon device. Additionally, we incorporated a proximity sensor to detect color stickers on the user's hand, allowing for varied butterfly transformations based on user input.
+
+**PLATFORM DESIGN**
+
+The design of our floating platform underwent several iterations. We ultimately decided to use electromagnets for the floating effect. Initial designs required high voltage that exceeded the Photon’s capabilities. Through prototyping, we optimized the circuit using a transistor and diode, resulting in a successful design where the electromagnet can attract a neodymium magnet, causing it to float when activated.
+
+**WAND DEVELOPMENT**
+
+The wand, powered by a Particle Photon, incorporates an accelerometer and proximity/color sensors. We utilized Fusion and Blender for modeling, ensuring sensor placement maximized readability. The wand’s design is modular for ease of assembly and debugging. The final product successfully detects movement and color, uploading data to the cloud to trigger the corresponding visual outputs.
+
+**LEVELS AND OUTCOMES**
+
+Operating at Axolotl levels, this project marked our first experience with rigging, training, and exploring p5.js, enabling us to effectively integrate essential technologies. We achieved our expected outcomes, including over 90% accuracy in gesture recognition and dynamic visual transformations via p5.js.
+
+**SPECULATION AND CONCLUSION** 
+
+Reflecting on the human experience, this project illustrates how AI can transform storytelling and play. By recognizing gestures and responding dynamically, users experience a greater sense of agency and immersion, feeling as if they are truly casting spells. This project could lead to more personalized interactions, where users influence their narratives in an interactive environment.
+
+In conclusion, the integration of machine learning, sensor technology, and interactive design in our "Magic Spell" project resulted in a captivating, functional magic wand, enhancing user engagement through motion and color recognition.
+
+This is the link to our final video which we edited with adobe Premiere Pro [Watch the full video of my work](# https://www.youtube.com/watch?v=eK5OsbcYlMs) <!-- (https://www.youtube.com/watch?v=eK5OsbcYlMs) -->
+
+
+---
 
 # Week 7 #
 
