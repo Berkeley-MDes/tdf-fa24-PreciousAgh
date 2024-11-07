@@ -20,6 +20,8 @@ Welcome to your new GitHub repository!
 
 [Week 9](README.md#week-9)
 
+[Week 10](README.md#week-10)
+
 ---
 
 # Github Background Information & Context
@@ -32,6 +34,54 @@ The specific file that I’m typing into right now is the **README.md** for this
 <h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
+
+# Week 10 #
+
+# Experiments and Final Project #
+
+**Overview**
+In the next week, I focused on conducting experiments within my sandbox, applying the concepts learned, and creating networking scenarios that simulate real-life interactions.
+
+# Key Activities #
+
+**Experiment 1: Introduction of the Agent:**
+
+Developed an agent to represent Precious Aghaeze, focusing on her academic journey and career aspirations.
+
+Created engaging introductory content and pre-populated questions to facilitate user interaction.
+
+**Experiment 2: Instructional Enhancements:**
+
+Enhanced the agent by adding instructional prompts to guide its responses based on Precious's experiences as a UX Designer and Design Engineer.
+
+This included a clear structure for the agent's interactions, improving its contextual awareness.
+
+**Experiment 3: Incorporation of RAG and Knowledge Base:**
+
+Integrated a knowledge base containing details from my resume, allowing the agent to pull relevant information when responding to user queries.
+
+Adjusted parameters such as temperature and number of chunks to experiment with response variability and depth.
+
+**Experiment 4: Adding Variables for Location and Year:**
+
+Introduced variables for Location and Year, allowing the agent to provide responses that are contextually relevant to specific scenarios and experiences.
+
+This setup enhances the personalization of the agent's responses based on the provided context.
+
+**Experiment 5: Combining Elements for a Networking Setting:**
+
+Combined all previous experiments into a cohesive framework, focusing on networking scenarios during a design conference.
+Added new variables for Event Type (e.g., "design conference") and Audience (e.g., "industry professionals") to tailor the agent’s responses further.
+
+Developed prompts that utilize these variables to help the agent engage users in realistic networking interactions, showcasing Precious Aghaeze’s background and experiences effectively.
+
+**Video **
+Here is a video demonstrating my progress through the various experiments conducted in my ZeroWidth sandbox. [Insert video link here]
+
+**Conclusion**
+
+Over the past two weeks, I have made significant strides in understanding LLMs and applying them through the ZeroWidth platform. The experiments I conducted not only reinforced my learning but also prepared me to engage users in rich, interactive dialogues related to Precious Aghaeze's academic and career experiences. I look forward to further refining these experiments and exploring additional features in the upcoming weeks.
+
 
 # Week 9 #
 
