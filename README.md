@@ -48,12 +48,12 @@ This week I worked on writing my progress report compiling everything I did toge
 
 # Week 10 #
 
-# Experiments and Final Project #
+## Experiments and Final Project 
 
 **Overview**
 In the next week, I focused on conducting experiments within my sandbox, applying the concepts learned, and creating networking scenarios that simulate real-life interactions.
 
-# Key Activities #
+## Key Activities 
 
 **Experiment 1: Introduction of the Agent:**
 
