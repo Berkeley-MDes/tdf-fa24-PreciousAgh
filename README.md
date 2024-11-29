@@ -102,12 +102,12 @@ Developed prompts that utilize these variables to help the agent engage users in
 
 <img width="800" alt="project3" src="assets/projec3exp5demo.png">
 
-# Speculations #
+## Speculations ##
 
 These experiments show how personalized, context-aware interactions can make networking more meaningful. By adding variables like location and event type, the system can adapt to different scenarios, such as mentorship or interview prep. Future updates, like adding multimedia or real-time feedback, could make the experience even richer. However, with this level of personalization, it’s important to ensure user data is handled responsibly and ethically.
 
 
-# Reflection and Conclusion #
+## Reflection and Conclusion ##
 
 Over the past two weeks, I have made significant strides in understanding LLMs and applying them through the ZeroWidth platform. The experiments I conducted not only reinforced my learning but also prepared me to engage users in rich, interactive dialogues related to Precious Aghaeze's academic and career experiences. I look forward to further refining these experiments and exploring additional features in the upcoming weeks.
 
@@ -142,11 +142,21 @@ Discussions on the principles of designing an effective AI agent to facilitate u
 Attended a talk with the founder, Pete, which provided insights into using ZeroWidth effectively and the capabilities it offers.
 Gained introductory background on the ZeroWidth workbench, learning how to navigate and utilize its features for project development.
 
+<img width="800" alt="project3" src="assets/pete.png">
+
+## Speculation ##
+Learning about LLMs and ZeroWidth shows potential for building smarter, context-aware systems. This foundation could lead to innovative applications like personalized assistants or educational tools.
+
+## Reflection ##
+This week deepened my understanding of LLM basics and the ZeroWidth platform. I’m excited to use this knowledge to create meaningful, interactive projects.
+
 
 # Week 8 #
-# Magic Spell: Final Video #
+# Magic Spell: Final Video Submission #
 
 This week, we made significant progress in our "Magic Spell" project, which explores the integration of Particle Photon, Cloud Services, and STEMMA QT sensors to develop a system that allows users to cast spells through motion data. The motion data, captured by waving a wand, is categorized and recognized as specific spells through machine learning. Our current spells include a transformation spell that triggers a p5.js animation and the lehviosa spell that activates a magnetic floating platform.
+
+<img width="800" alt="project3" src="assets/wandphotshoot.png"> 
 
 **MACHINE LEARNING**
 
@@ -155,6 +165,8 @@ In the machine learning segment, we utilized Edge Impulse to train our model to 
 **P5.JS INTEGRATION**
 
 In the p5.js segment, we developed an animation where a caterpillar transforms into a butterfly, managed through the Insect class. By establishing a Particle API URL, we linked our machine learning model with p5.js, enabling real-time updates from the Photon device. Additionally, we incorporated a proximity sensor to detect color stickers on the user's hand, allowing for varied butterfly transformations based on user input.
+
+<img width="800" alt="project3" src="assets/wandinaction.png"> 
 
 **PLATFORM DESIGN**
 
