@@ -61,11 +61,15 @@ Developed an agent to represent Precious Aghaeze, focusing on her academic journ
 
 Created engaging introductory content and pre-populated questions to facilitate user interaction.
 
+<img width="800" alt="project3" src="assets/project3exp1.png">
+
 **Experiment 2: Instructional Enhancements:**
 
 Enhanced the agent by adding instructional prompts to guide its responses based on Precious's experiences as a UX Designer and Design Engineer.
 
 This included a clear structure for the agent's interactions, improving its contextual awareness.
+
+<img width="800" alt="project3" src="assets/project3exp2.png">
 
 **Experiment 3: Incorporation of RAG and Knowledge Base:**
 
@@ -73,11 +77,15 @@ Integrated a knowledge base containing details from my resume, allowing the agen
 
 Adjusted parameters such as temperature and number of chunks to experiment with response variability and depth.
 
+<img width="800" alt="project3" src="assets/project3exp3.png">
+
 **Experiment 4: Adding Variables for Location and Year:**
 
 Introduced variables for Location and Year, allowing the agent to provide responses that are contextually relevant to specific scenarios and experiences.
 
 This setup enhances the personalization of the agent's responses based on the provided context.
+
+<img width="800" alt="project3" src="assets/project3exp4.png">
 
 **Experiment 5: Combining Elements for a Networking Setting:**
 
@@ -86,10 +94,20 @@ Added new variables for Event Type (e.g., "design conference") and Audience (e.g
 
 Developed prompts that utilize these variables to help the agent engage users in realistic networking interactions, showcasing Precious Aghaeze’s background and experiences effectively.
 
-**Video **
-Here is a video demonstrating my progress through the various experiments conducted in my ZeroWidth sandbox. [Insert video link here]
+<img width="800" alt="project3" src="assets/project3exp5.png">
 
-**Conclusion**
+---
+
+**Final Demo**
+
+<img width="800" alt="project3" src="assets/projec3exp5demo.png">
+
+# Speculations #
+
+These experiments show how personalized, context-aware interactions can make networking more meaningful. By adding variables like location and event type, the system can adapt to different scenarios, such as mentorship or interview prep. Future updates, like adding multimedia or real-time feedback, could make the experience even richer. However, with this level of personalization, it’s important to ensure user data is handled responsibly and ethically.
+
+
+# Reflection and Conclusion #
 
 Over the past two weeks, I have made significant strides in understanding LLMs and applying them through the ZeroWidth platform. The experiments I conducted not only reinforced my learning but also prepared me to engage users in rich, interactive dialogues related to Precious Aghaeze's academic and career experiences. I look forward to further refining these experiments and exploring additional features in the upcoming weeks.
 
