@@ -264,7 +264,7 @@ This week's experiments significantly enhanced my understanding of interactive p
 
 **Assessment of Work:** Currently, I feel satisfied with the functionality and aesthetics of the spells. The transformation animation of the caterpillar to butterfly is especially rewarding. However, I see room for improvement in optimizing the particle system for performance.
 
-**Speculations**
+## Speculations
 
 Looking forward, I believe the tools and frameworks like p5.js will continue evolving where I will be incorporating more advanced features for real-time graphics and interactive experiences. 
 
