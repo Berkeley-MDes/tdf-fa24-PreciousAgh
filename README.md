@@ -25,6 +25,7 @@ Welcome to your new GitHub repository!
 [Week 11](README.md#week-11)
 
 [Week 12](README.md#week-12)
+
 ---
 
 # Github Background Information & Context
