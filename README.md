@@ -180,7 +180,9 @@ The wand, powered by a Particle Photon, incorporates an accelerometer and proxim
 
 Operating at Axolotl levels, this project marked our first experience with rigging, training, and exploring p5.js, enabling us to effectively integrate essential technologies. We achieved our expected outcomes, including over 90% accuracy in gesture recognition and dynamic visual transformations via p5.js.
 
-**SPECULATION AND CONCLUSION** 
+---
+
+## SPECULATION AND REFLECTION
 
 Reflecting on the human experience, this project illustrates how AI can transform storytelling and play. By recognizing gestures and responding dynamically, users experience a greater sense of agency and immersion, feeling as if they are truly casting spells. This project could lead to more personalized interactions, where users influence their narratives in an interactive environment.
 
