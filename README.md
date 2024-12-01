@@ -43,7 +43,7 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 This week, my team’s direction for Project 4 shifted significantly. Initially, we explored expanding the magic wand concept by using stable diffusion to visualize fears and transform them into humorous forms, inspired by the Harry Potter boggart scene. However, testing with ChatGPT and stable diffusion didn’t produce the results we hoped for.
 
-## Insights from Neuropsychology 
+## Insights from Neuropsychology
 
 After interviewing a neuropsychology professor, we learned about exposure therapy, which involves gradually introducing fears in a safe environment. This inspired us to combine spellcasting interactions with gradual fear exposure, but the technical complexity made this approach unfeasible.
 
