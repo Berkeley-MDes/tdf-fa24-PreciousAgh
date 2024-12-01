@@ -39,12 +39,57 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
 
-# Week 12 #
-This week I worked on thining of p4 project to execute. My initial idea was to do a breathing flower. 
+# Week 12 # 
+
+This week, my team’s direction for Project 4 shifted significantly. Initially, we explored expanding the magic wand concept by using stable diffusion to visualize fears and transform them into humorous forms, inspired by the Harry Potter boggart scene. However, testing with ChatGPT and stable diffusion didn’t produce the results we hoped for.
+
+## Insights from Neuropsychology 
+
+After interviewing a neuropsychology professor, we learned about exposure therapy, which involves gradually introducing fears in a safe environment. This inspired us to combine spellcasting interactions with gradual fear exposure, but the technical complexity made this approach unfeasible.
+
+
+## Choosing the Tree Grounding Technique
+
+We narrowed our focus to three mental health concepts, ultimately choosing a simpler meditation-based project. While my suggestion of the "breathing flower" was discussed, we decided on the tree grounding technique, where participants imagine their body as a tree growing with their breath. This visualization fosters mindfulness and grounding.
+
+**My Breathing Flower proposal**
+
+<img width="500" alt="project4" src="assets/Breathing flower.jpg">
+
+## Reflections 
+
+This week taught me the importance of balancing ambition with feasibility, particularly when working under time constraints. Simplifying our project allowed us to focus on creating a meaningful and achievable outcome while still addressing mental health.
+
+## Moving Forward
+
+I’m interested in exploring how sensors, such as motion and breath trackers, can enhance mindfulness by creating an interactive device. This device could visualize breathing patterns or body movements in real time, offering an engaging and adaptive experience for users. It could also help accommodate individuals with diverse cognitive needs, such as those with Aphantasia, by providing tangible feedback rather than relying solely on visualization.
+
+## Speculations
+
+Looking ahead, I see opportunities to push the boundaries of mindfulness technology by integrating AI and sensor data. Such advancements could lead to personalized mindfulness experiences that adapt dynamically to the user’s state of mind or environment. This could transform meditation practices from static exercises into evolving, immersive journeys that improve mental well-being on a deeper level.
+
+---
 
 # Week 11 #
 
-This week I worked on writing my progress report compiling everything I did together in a document :) 
+This week, I compiled my progress report and attended the AfroTech Conference 2024, made possible by the Berkeley Master of Design Professional Development Fund. I’m incredibly grateful for their support in enabling this experience.
+
+<img width="500" alt="project3" src="assets/IMG_2433.jpeg">
+
+## Speculations
+
+Attending AfroTech inspired ideas for improving my projects and approach:
+* Incorporating inclusivity and community-driven design principles into my work.
+* Enhancing storytelling to make my designs and presentations more relatable and impactful.
+
+## Reflections
+
+<img width="300" height="400" alt="project3" src="assets/IMG_7083.jpeg"> <img width="300" alt="project3" src="assets/IMG_6881.jpeg">
+
+AfroTech highlighted the connections between my TDF projects and broader applications in design and technology. For example, Mistico, my conceptual humidifier, demonstrates how computational design can merge creativity and functionality to solve real-world problems. Similarly, the jewelry stand I developed in Grasshopper reflects innovative system thinking and computational techniques.
+These projects resonate with recruiters because they bridge technical skills with user-focused design. Engaging in conversations about our TDF work helped me articulate the relevance of computation in creating impactful, human-centered solutions. AfroTech reinforced the value of applying these principles in both academic and professional contexts.
+
+---
 
 # Week 10 #
 
