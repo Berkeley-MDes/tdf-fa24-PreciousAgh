@@ -26,6 +26,8 @@ Welcome to your new GitHub repository!
 
 [Week 12](README.md#week-12)
 
+[Week 14](README.md#week-13)
+
 ---
 
 # Github Background Information & Context
@@ -38,6 +40,8 @@ The specific file that I’m typing into right now is the **README.md** for this
 <h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
+
+# Week 14: Final Week # 
 
 # Week 12 # 
 
