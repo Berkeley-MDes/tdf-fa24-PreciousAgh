@@ -43,6 +43,40 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 # Week 14: Final Week # 
 
+## My Process This Week
+
+This week, I focused on finalizing the Mindfulness Tree project and ensuring all the components came together smoothly. My primary focus was integrating the hardware elements, such as refining the motion and pulse sensor data to ensure accurate readings for tree growth and glow responsiveness. Additionally, I worked on fine-tuning the prototype to ensure the system seamlessly reflected real-time user interaction, particularly through the accelerometer and heart rate sensors.
+
+Alongside finalizing the prototype, I dedicated time to preparing for the Showcase, which included creating and editing the project video. This process involved carefully demonstrating how the system works while crafting a clear, engaging narrative to convey the vision behind the project. I also ensured our visuals and explanations for the final presentation were polished and ready for an engaging audience experience.
+
+## Project Overview
+
+The Mindfulness Tree transforms the concept of tree-grounding meditation into an interactive, full-body experience. By using sensors to detect proximity, movement, and heart rate, the system visualizes a growing and glowing tree that reflects a user’s breathing and physical engagement. Integrating OpenAI and Google Text-to-Speech, the AI delivers a dynamic meditation narrative, making the experience feel deeply personal and immersive.
+
+## Reflections on My Growth
+
+Working on this project taught me how to thoughtfully combine hardware and software to create an interactive, human-centered system. I learned to simplify challenges, such as focusing on straightforward motion detection calculations rather than relying on unnecessary machine learning. It reinforced the importance of iteration—testing, debugging, and refining every component until it worked seamlessly.
+
+The video editing process was another major part of my week, as I worked on highlighting the key features of our project in a concise and visually appealing way. Preparing for the Showcase pushed me to clearly articulate our project’s value, helping me improve both my technical and storytelling skills.
+
+## Semester Recap
+
+This semester in Technology Design Foundations (TDF) has been an incredible learning journey. Beyond the Mindfulness Tree, I worked on multiple projects that challenged and expanded my design and technical skills:
+
+**Jewelry Stand:** I explored 3D modeling and parametric design, creating a functional, visually compelling object while refining my skills in Grasshopper and Rhino.
+
+**Mini-Me Network:** This project taught me about personalization and thoughtful system integration.
+**Magic Spell Project:** Working with motion sensors and AI in the "casting spells" system allowed me to explore creative uses of technology to trigger responses.
+
+**Networking Agent:** I learned to focus on user-centered design and adapt solutions to meet specific needs.
+Each of these projects has given me the opportunity to explore design, technology, and human interaction in new ways. I’ve grown not only in my technical capabilities but also in how I approach problem-solving, creativity, and storytelling.
+
+## 5. Conclusion
+
+This semester has been an enriching experience, filled with learning, collaboration, and growth. I am so proud of the work I’ve done, and I’m grateful for the opportunity to experiment with new tools and technologies to bring creative ideas to life. From sensors and fabrication to AI and visualization, I have gained a deeper understanding of what it means to design systems that are functional, meaningful, and engaging.
+
+I’m excited to carry these lessons forward and continue growing as a designer and technologist.
+
 # Week 12 # 
 
 This week, my team’s direction for Project 4 shifted significantly. Initially, we explored expanding the magic wand concept by using stable diffusion to visualize fears and transform them into humorous forms, inspired by the Harry Potter boggart scene. However, testing with ChatGPT and stable diffusion didn’t produce the results we hoped for.
