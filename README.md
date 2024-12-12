@@ -41,7 +41,7 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
 
-# Week 14: Final Week # 
+# Week 14 # 
 
 ## My Process This Week
 
