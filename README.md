@@ -49,6 +49,8 @@ This week, I focused on finalizing the Mindfulness Tree project and ensuring all
 
 Alongside finalizing the prototype, I dedicated time to preparing for the Showcase, which included creating and editing the project video. This process involved carefully demonstrating how the system works while crafting a clear, engaging narrative to convey the vision behind the project. I also ensured our visuals and explanations for the final presentation were polished and ready for an engaging audience experience.
 
+
+
 ## Project Overview
 
 The Mindfulness Tree transforms the concept of tree-grounding meditation into an interactive, full-body experience. By using sensors to detect proximity, movement, and heart rate, the system visualizes a growing and glowing tree that reflects a user’s breathing and physical engagement. Integrating OpenAI and Google Text-to-Speech, the AI delivers a dynamic meditation narrative, making the experience feel deeply personal and immersive.
@@ -71,7 +73,7 @@ This semester in Technology Design Foundations (TDF) has been an incredible lear
 **Networking Agent:** I learned to focus on user-centered design and adapt solutions to meet specific needs.
 Each of these projects has given me the opportunity to explore design, technology, and human interaction in new ways. I’ve grown not only in my technical capabilities but also in how I approach problem-solving, creativity, and storytelling.
 
-## 5. Conclusion
+## Conclusion
 
 This semester has been an enriching experience, filled with learning, collaboration, and growth. I am so proud of the work I’ve done, and I’m grateful for the opportunity to experiment with new tools and technologies to bring creative ideas to life. From sensors and fabrication to AI and visualization, I have gained a deeper understanding of what it means to design systems that are functional, meaningful, and engaging.
 
