@@ -62,6 +62,9 @@ Working on this project taught me how to thoughtfully combine hardware and softw
 
 The video editing process was another major part of my week, as I worked on highlighting the key features of our project in a concise and visually appealing way. Preparing for the Showcase pushed me to clearly articulate our project’s value, helping me improve both my technical and storytelling skills.
 
+Here is the final youtube video of my work [Watch the full video of my work](# https://www.youtube.com/watch?v=621HBeJw-nY) <!-- (https://www.youtube.com/watch?v=621HBeJw-nY) -->
+
+
 ## Semester Recap
 
 This semester in Technology Design Foundations (TDF) has been an incredible learning journey. Beyond the Mindfulness Tree, I worked on multiple projects that challenged and expanded my design and technical skills:
